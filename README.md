@@ -42,7 +42,7 @@
 # 💻 Tech Stack:
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,js,tailwind,vite,nodejs,express,postgres,supabase,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,js,tailwind,vite,nodejs,express,postgres,supabase,git,github,vscode" />
 </p>
 
 ---
@@ -50,20 +50,12 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MoridAhmadAzizi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MoridAhmadAzizi&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MoridAhmadAzizi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MoridAhmadAzizi&theme=tokyonight&hide_border=true" height="170" width="400"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoridAhmadAzizi&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies:
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MoridAhmadAzizi&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoridAhmadAzizi&layout=compact&theme=tokyonight&hide_border=true" height="160"  width="400"/>
 </p>
 
 ---
@@ -75,11 +67,3 @@
 </p>
 
 ---
-
-<div align="center">
-
-### 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=MoridAhmadAzizi&style=for-the-badge&color=blue" />
-
-</div>
