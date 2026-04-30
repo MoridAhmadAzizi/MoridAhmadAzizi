@@ -8,6 +8,8 @@
 
 ---
 
+  <h1>Hi 👋 I'm Morid Ahmad Azizi</h1>
+  <p> I am professional at designing, developing and implementing beautiful & effective applications.</p>
 
 <h1>📖 About Me</h1>
 
@@ -18,8 +20,7 @@ class MoridAhmadAzizi {
         this.age = 18;
         this.education = "BS student in Computer Science";
         this.languages = ["HTML", "CSS", "JavaScript", "Dart"];
-        this.frameworks = ["Bootstrap", "Tailwind CSS", "React","Flutter"];
-        this.graphic = ["PhotoShop","Corel Draw","Illustrator"];
+        this.frameworks = ["Tailwind CSS", "React","Flutter"];
         this.favorites = [
             "coding",
             "learning new skills",
@@ -35,15 +36,8 @@ class MoridAhmadAzizi {
         this.superpower = "Building apps that make life easier.";
     }
 }
- 
+ ```
 
-<br>
-
-<div align="center">
-  <img src="https://github.com/platane/platane/raw/output/github-contribution-grid-snake.svg" />
-</div>
-
----
 
 # 🌐 Connect With Me:
 
@@ -61,7 +55,7 @@ class MoridAhmadAzizi {
 # 💻 Tech Stack:
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,js,tailwind,vite,nodejs,express,postgres,supabase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,js,tailwind,vite,postgres,supabase,git,github,vscode" />
 </p>
 
 ---
@@ -69,12 +63,15 @@ class MoridAhmadAzizi {
 # 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MoridAhmadAzizi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" width="400"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MoridAhmadAzizi&theme=tokyonight&hide_border=true" height="170" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MoridAhmadAzizi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="270" width="1000"/>
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoridAhmadAzizi&theme=tokyonight&hide_border=true" height="270" width="1000"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoridAhmadAzizi&layout=compact&theme=tokyonight&hide_border=true" height="160"  width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoridAhmadAzizi&layout=compact&theme=tokyonight&hide_border=true" height="260"  width="1000"/>
 </p>
 
 ---
