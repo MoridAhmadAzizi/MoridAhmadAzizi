@@ -13,28 +13,54 @@
 
 <h1>📖 About Me</h1>
 
-```javascript
+```dart
 class MoridAhmadAzizi {
-    constructor() {
-        this.full_name = "Morid Ahmad Azizi";
-        this.age = 18;
-        this.education = "BS student in Computer Science";
-        this.languages = ["HTML", "CSS", "JavaScript", "Dart"];
-        this.frameworks = ["Tailwind CSS", "React","Flutter"];
-        this.favorites = [
-            "coding",
-            "learning new skills",
-            "reading",
-            "Football",
-        ];
-        this.learning = [
-            "Advanced Flutter techniques",
-            "Firebase",
-            "UI/UX Design principles"
-        ];
-        this.working_on = ["Customer portal using Flutter", "learning new frameworks"];
-        this.superpower = "Building apps that make life easier.";
-    }
+  final String fullName;
+  final int age;
+  final String education;
+
+  final List<String> languages;
+  final List<String> frameworks;
+  final List<String> favorites;
+
+  final List<String> learning;
+  final List<String> workingOn;
+
+  final String superpower;
+
+  const MoridAhmadAzizi({
+    this.fullName = "Morid Ahmad Azizi",
+    this.age = 18,
+    this.education = "BS student in Computer Science",
+    this.languages = const ["HTML", "CSS", "JavaScript", "Dart"],
+    this.frameworks = const ["Tailwind CSS", "React", "Flutter"],
+    this.favorites = const [
+      "coding",
+      "learning new skills",
+      "reading",
+      "Football",
+    ],
+    this.learning = const [
+      "Advanced Flutter techniques",
+      "Firebase",
+      "UI/UX Design principles",
+    ],
+    this.workingOn = const [
+      "Customer portal using Flutter",
+      "learning new frameworks",
+    ],
+    this.superpower = "Building apps that make life easier.",
+  });
+
+  @override
+  String toString() {
+    return 'MoridAhmadAzizi(fullName: $fullName, age: $age, education: $education)';
+  }
+}
+
+void main() {
+  const me = MoridAhmadAzizi();
+  print(me.fullName);
 }
  ```
 
@@ -63,15 +89,20 @@ class MoridAhmadAzizi {
 # 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MoridAhmadAzizi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="270" width="1000"/>
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoridAhmadAzizi&theme=tokyonight&hide_border=true" height="270" width="1000"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoridAhmadAzizi&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoridAhmadAzizi&layout=compact&theme=tokyonight&hide_border=true" height="260"  width="1000"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoridAhmadAzizi&theme=tokyonight" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MoridAhmadAzizi&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MoridAhmadAzizi&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MoridAhmadAzizi&theme=tokyonight"/>
 </p>
 
 ---
