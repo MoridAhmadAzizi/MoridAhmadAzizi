@@ -8,15 +8,34 @@
 
 ---
 
-# 💫 About Me:
 
-💡 I'm **Morid Ahmad Azizi**, a passionate developer who enjoys building polished and useful software.  
-📱 Currently focused on **Flutter, Dart, and Mobile Development**  
-🌐 Also working with **Web Technologies & Modern UI**  
-🧠 Always learning, improving, and solving real-world problems  
-⚙️ I care about clean code, architecture, and performance  
-🚀 My goal is to build products people actually enjoy using  
-🌍 Based in Afghanistan, building for everywhere  
+<h1>📖 About Me</h1>
+
+```javascript
+class MoridAhmadAzizi {
+    constructor() {
+        this.full_name = "Morid Ahmad Azizi";
+        this.age = 18;
+        this.education = "BS student in Computer Science";
+        this.languages = ["HTML", "CSS", "JavaScript", "Dart"];
+        this.frameworks = ["Bootstrap", "Tailwind CSS", "React","Flutter"];
+        this.graphic = ["PhotoShop","Corel Draw","Illustrator"];
+        this.favorites = [
+            "coding",
+            "learning new skills",
+            "reading",
+            "Football",
+        ];
+        this.learning = [
+            "Advanced Flutter techniques",
+            "Firebase",
+            "UI/UX Design principles"
+        ];
+        this.working_on = ["Customer portal using Flutter", "learning new frameworks"];
+        this.superpower = "Building apps that make life easier.";
+    }
+}
+ 
 
 <br>
 
