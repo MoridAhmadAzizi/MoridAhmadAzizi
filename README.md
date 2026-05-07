@@ -54,17 +54,7 @@ class MoridAhmadAzizi {
 
   @override
   String toString() {
-    return 'MoridAhmadAzizi(
-      fullName: $fullName,
-      age: $age,
-      education: $education,
-      languages: $languages ,
-      frameworks: $frameworks ,
-      favorites: $favorites,
-      learning: $learning ,
-      workingOn: $workingOn ,
-      superpower: $superpower
-   )';
+    return 'MoridAhmadAzizi(fullName: $fullName, age: $age, education: $education)';
   }
 }
 
